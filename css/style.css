@@ -1,0 +1,32 @@
+.custom{
+    color: #0c2e8a;
+    
+}
+.custom-1{
+    color: #50d8af;
+}
+.banner-img-1{
+    background-image: url("../image/carousel/1.jpg");
+    height: 100vh;
+}
+.banner-img-2{
+    background-image: url("../image/carousel/2.jpg");
+    height: 100vh;
+}
+.banner-img-3{
+    background-image: url("../image/carousel/4.jpg");
+    height: 100vh;
+}
+.margin{
+    margin-top: 100px;
+
+}
+.client-image{
+    width: 150px;
+}
+.margin-1{
+    margin-left: 600px;
+}
+.custom-2{
+    background-color: #c2e4da;
+}
